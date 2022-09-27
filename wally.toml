@@ -1,0 +1,8 @@
+[package]
+name = "ulferno/fastcastredux"
+description = "Port of FastCastRedux by Xan_TheDragon"
+version = "13.2.1"
+license = "MIT"
+authors = []
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
