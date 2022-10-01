@@ -1,7 +1,7 @@
 [package]
 name = "ulferno/fastcastredux"
 description = "Port of FastCastRedux by Xan_TheDragon"
-version = "13.2.1"
+version = "0.0.2"
 license = "MIT"
 authors = []
 realm = "shared"
